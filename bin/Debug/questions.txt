@@ -1,0 +1,85 @@
+﻿#2
+Wie alt bist du?
+Wie alt sind Sie?
+#2
+Ich bin 19 Jahre alt
+19 Jahre alt
+
+Conjugate Ending for Ich?
+e
+Conjugate Ending for Du?
+st
+Conjugate Ending for sie, Sie, and Wir?
+en
+Conjugate Ending for er, sie, es, and Ihr?
+t
+
+Our male/neutral, female object?
+Unser, Unsere
+
+Your (Plural) male/neutral, female  object?
+Euer, Euere
+
+His/Its male/neutral, female  object?
+Sein, Seine
+
+Her male/neutral, female object?
+Ihr, Ihre
+
+Your (Singular) male/neutral, female object?
+Dein, Deine
+
+And, Or?
+Und, Oder
+
+Because/For?
+Denn
+
+Rather?
+Sondern
+
+Nominative of M,F,N,Plural?
+#2
+der,die,das,die
+der die das die
+
+Accusative of M,F,N,Plural?
+#2
+den,die,das,die
+den die das die
+
+Dative of M,F,N,Plural?
+#2
+dem,der,dem,den+n..
+dem der dem den+n..
+
+Conjugation of Dürfen (ich, du, er/sie, wir/Sie/sie, ihr)?//Lengthy, sure, but it works
+#6
+//For German keyboards
+darf, darfst, darf, dürfen, dürft
+darf,darfst,darf,dürfen,dürft
+darf darfst darf dürfen dürft
+//For non-unicode keyboards
+darf, darfst, darf, durfen, durft
+darf,darfst,darf,durfen,durft
+darf darfst darf durfen durft
+
+'The Computer'?
+Der Computer
+
+'The Chalkboard'?
+Die Tafel
+
+'The Chair'?
+Der Stuhl
+
+'The Door'?
+#2
+Die Tür
+Die Tur//For non-german keyboards
+
+'The Lamp'?
+Die Lampe
+
+'The Television'?
+Der Fernseher
